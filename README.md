@@ -43,11 +43,15 @@ Sunshine is a digital agency that helps users transform their vision into digita
 ## Demo
 
 here is demo link :- https://binary-maharishi-8901.netlify.app/
+here is backend gihub link :- https://github.com/nuralamdewan2000/binary_maharishi_API
+here is backend deployed link :- https://mockapi-lrqd.onrender.com/
 
 ## Screenshots
 
 ## Admin Dashboard
 [Admin Page](https://drive.google.com/file/d/1Dgm_tspqxDuACPuLXX3xY-lVzypA51tz/view?usp=sharing)
+
+
 
 
 
